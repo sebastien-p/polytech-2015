@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "toto2",
+  "version": "1.0.0-dev",
+  "description": "toto2: An Ionic project",
+  "dependencies": {
+    "ionic": "driftyco/ionic-bower#1.1.0"
+  }
+}
